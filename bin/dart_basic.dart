@@ -2,9 +2,11 @@ import 'package:dart_basic/1Data_Types_And_Variables/Data_Types_And_Variables.da
 import 'package:dart_basic/2User_Input/2User_Input.dart';
 import 'package:dart_basic/3Operators/Operators.dart';
 import 'package:dart_basic/4Comments/Comments.dart';
+import 'package:dart_basic/5Type_Casting/Type_Casting.dart';
 
 void main(List<String> arguments) {
   // Data_Types_And_Variables();
   // User_Input();
   // Operators();
+  Type_Casting();
 }
