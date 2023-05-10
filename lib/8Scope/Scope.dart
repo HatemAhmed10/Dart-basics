@@ -1,3 +1,4 @@
+// Global variables
 int y = 10;
 
 void Scope() {
