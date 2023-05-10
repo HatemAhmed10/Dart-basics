@@ -9,6 +9,7 @@ import 'package:dart_basic/17do_while/do_while.dart';
 import 'package:dart_basic/19For_each/For_each.dart';
 import 'package:dart_basic/1Data_Types_And_Variables/Data_Types_And_Variables.dart';
 import 'package:dart_basic/20Function/Function.dart';
+import 'package:dart_basic/21ternary_operator/ternary_operator.dart';
 import 'package:dart_basic/2User_Input/2User_Input.dart';
 import 'package:dart_basic/3Operators/Operators.dart';
 import 'package:dart_basic/4Comments/Comments.dart';
@@ -36,5 +37,6 @@ void main(List<String> arguments) {
   // While_Loop();
   // do_while();
   // For_each();
-  Function_test();
+  // Function_test();
+  ternary_operator();
 }
